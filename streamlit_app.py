@@ -8,3 +8,5 @@ streamlit.header("lunch")
 streamlit.text("Schnitzel and Pommes Frites")
 streamlit.header("supper")
 streamlit.text("🍞 Abendbrot :D")
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
